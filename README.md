@@ -12,7 +12,7 @@ permanência, ocorrências e penalidades, e administração da demanda.
 | Arquivo | Descrição |
 |---|---|
 | `Minimundo.pdf` | Descrição do problema |
-| `Modelo_Conceitual.pdf` | Diagrama entidade-relacionamento (notação de Chen) |
+| `Modelo_Conceitual.pdf` | Diagrama entidade-relacionamento, com entidades em retângulos e relacionamentos representados por dois triângulos |
 | `Modelo_Lógico.md` | Esquema relacional com chaves primárias e estrangeiras |
 | `Regras_de_Negocio.md` | Restrições e regras de negócio do sistema |
 | `Banco_Restaurante_UFRB.sql` | Script de criação do banco físico (MySQL 8+) |

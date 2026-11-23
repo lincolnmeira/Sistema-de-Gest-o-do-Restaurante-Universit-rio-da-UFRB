@@ -1,7 +1,7 @@
 # Regras de Negócio — Restaurante Universitário da UFRB
 
 **Tema:** Sistema de Gestão do Restaurante Universitário da UFRB
-**Base:** Minimundo, Modelo Conceitual (Chen), Modelo Relacional e `Banco_Restaurante_UFRB.sql`.
+**Base:** Minimundo, Modelo Conceitual (entidades em retângulos e relacionamentos representados por dois triângulos), Modelo Relacional e `Banco_Restaurante_UFRB.sql`.
 
 ## Como ler este documento
 
@@ -264,7 +264,7 @@ Outras definições necessárias: limites de agendamentos por usuário (RN-29), 
 | Créditos e débitos realizados | `MOVIMENTACAO.tipo` | *View* |
 | Ocorrências registradas | `OCORRENCIA` | *View* |
 
-No diagrama de Chen, esses atributos devem aparecer como **elipse tracejada** (derivados).
+No diagrama conceitual do projeto, esses atributos devem aparecer como **elipse tracejada** (derivados).
 
 ---
 
